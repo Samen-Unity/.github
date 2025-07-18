@@ -1,5 +1,6 @@
 # Samen is a tool for Unity
 It allows you to work in the same scene, at the same time. Allowing for real-time editing, in large teams, even if you are far apart. 
+This allows multiple designers to work on one level!
   
 The server's repo can be found here.   
 [🔗 Server Code](https://github.com/Samen-Unity/samen-host)
