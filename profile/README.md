@@ -17,3 +17,6 @@ Feature Timeline:
 - ✅ Prefab loading
 - ✅ Ping tool
 - ❌ Adding more things to this list
+
+# Are you using this?
+If you are a team using this tool, feel free get in contact with me so we can scheme some epic plans for future updates!
