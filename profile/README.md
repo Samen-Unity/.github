@@ -6,3 +6,12 @@ The server's repo can be found here.
 
 The client's repo can be found here.   
 [Client Releases](https://github.com/Samen-Unity/samen-sample/releases)
+
+Feature Timeline:
+- ✅ Session system wih multiple users connecting
+- ✅ Object rotation, position and scale sync
+- ✅ Robust 'History' system
+- ✅ Session Chat and Commands
+- ✅ Prefab loading
+- ✅ Ping tool
+- ❌ Add more things to this list
