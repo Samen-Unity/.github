@@ -1,4 +1,4 @@
-## Samen is a tool for Unity
+# Samen is a tool for Unity
 It allows you to work in the same scene, at the same time. Allowing for real-time editing, in large teams, even if you are far apart. 
   
 The server's repo can be found here.   
@@ -7,7 +7,7 @@ The server's repo can be found here.
 The client's repo can be found here.   
 [🔗 Client Releases](https://github.com/Samen-Unity/samen-sample/releases)
 
-Feature Timeline:
+## 🕑Feature Timeline:
 - ✅ Multi-user session system
 - ✅ Custom packet protocol
 - ✅ Real-time sync of object rotation, position, and scale
@@ -19,5 +19,8 @@ Feature Timeline:
 - ❌ Adding more things to this list
 
 # Are you using this?
-If you are a team using this tool, feel free get in contact with me so we can scheme some epic plans for future updates!
-@TygoDeVries
+If you are a team using this tool, feel free get in contact with me so we can scheme some epic plans for future updates!  
+
+## 👥 Current Contributors
+@TygoDeVries (Maintainer, Core Contributor)  
+@Pruyque (Contributor)
