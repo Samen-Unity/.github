@@ -11,6 +11,7 @@ Feature Timeline:
 - ✅ Session system wih multiple users connecting
 - ✅ Object rotation, position and scale sync
 - ✅ Robust 'History' system
+- ✅ Duplicating and Deleting sync
 - ✅ Session Chat and Commands
 - ✅ Prefab loading
 - ✅ Ping tool
