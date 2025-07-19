@@ -17,6 +17,8 @@ The client's repo can be found here.
 - ✅ In-session chat and command support
 - ✅ Prefab loading
 - ✅ Ping tool
+- ❌ Camera Avatar for other users
+- ❌ Object Selection outline visual sync
 - ❌ Adding more things to this list
 
 # Are you using this?
