@@ -19,6 +19,7 @@ The client's repo can be found here.
 - ✅ Ping tool
 - ❌ Camera Avatar for other users
 - ❌ Object Selection outline visual sync
+- ❌ Tilemap support
 - ❌ Adding more things to this list
 
 # Are you using this?
