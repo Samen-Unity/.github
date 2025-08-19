@@ -21,7 +21,9 @@ Think Google Docs, but for Unity. Changes are live-synced between all users in r
 - ✅ External plugin support  
 - 🛠️ Camera avatar support for other users  
 - 🛠️ Selection outline sync  
-- 🛠️ Tilemap support  
+- 🛠️ Tilemap support
+- 😴 Syncing components in session
+- 😴 Creating new objects in session
 - 🛠️ ...and more to come
 
 ## 📣 Are You Using Samen?
@@ -32,6 +34,9 @@ Let’s connect and scheme some epic plans for future updates.
 @TygoDeVries (Maintainer, Core Contributor)  
 @Pruyque (Contributor)
 
+## 😴 Known issues
+Creating new objects and adding components to objects during a session is a difficult challange, and is still being worked on. 
+For now, create the needed objects beforehand as prefabs. You can add prefabs from your files during a live session.
 
 ## 🔄 Version Compatibility
 
