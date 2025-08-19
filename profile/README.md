@@ -1,29 +1,32 @@
-# Samen is a tool for Unity
-It allows you to work in the same scene, at the same time. Allowing for real-time editing, in large teams, even if you are far apart. 
-This allows multiple designers to work on one level!
-  
-The server's repo can be found here.   
-[🔗 Server Code](https://github.com/Samen-Unity/samen-host)
+# Samen - Real-time Scene Collaboration in Unity
+**Samen** lets multiple level designers work together in the *same* scene at the *same* time.  
+Think Google Docs, but for Unity. Changes are live-synced between all users in real time.
 
-The client's repo can be found here.   
-[🔗 Client Releases](https://github.com/Samen-Unity/samen-sample/releases)
 
-## 🕑Feature Timeline:
-- ✅ Multi-user session system
-- ✅ Custom packet protocol
-- ✅ Real-time sync of object rotation, position, and scale
-- ✅ Robust history networking system (host side)
-- ✅ Syncing for duplicating and deleting objects
-- ✅ In-session chat and command support
-- ✅ Prefab loading
-- ✅ Ping tool
-- ❌ Camera Avatar for other users
-- ❌ Object Selection outline visual sync
-- ❌ Tilemap support
-- ❌ Adding more things to this list
+# Releases 
+### [🌐 Server Releases](https://github.com/Samen-Unity/samen-host/releases)
+### [🧑‍💻 Client Releases](https://github.com/Samen-Unity/samen-sample/releases)
 
-# Are you using this?
-If you are a team using this tool, feel free get in contact with me so we can scheme some epic plans for future updates!  
+# 🕑Feature Timeline:
+- ✅ Multi-user session system  
+- ✅ Custom packet protocol  
+- ✅ Real-time sync of object position, rotation, and scale  
+- ✅ Robust server-side history system  
+- ✅ Object duplication & deletion syncing  
+- ✅ In-session chat & command system  
+- ✅ Prefab loading  
+- ✅ Ping tool  
+- ✅ Auto-reconnect  
+- ✅ User management & permissions  
+- ✅ External plugin support  
+- 🛠️ Camera avatar support for other users  
+- 🛠️ Selection outline sync  
+- 🛠️ Tilemap support  
+- 🛠️ ...and more to come
+
+## 📣 Are You Using Samen?
+If your team is using Samen, I’d love to hear from you!  
+Let’s connect and scheme some epic plans for future updates.
 
 ## 👥 Current Contributors
 @TygoDeVries (Maintainer, Core Contributor)  
