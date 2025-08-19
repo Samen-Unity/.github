@@ -31,3 +31,18 @@ Let’s connect and scheme some epic plans for future updates.
 ## 👥 Current Contributors
 @TygoDeVries (Maintainer, Core Contributor)  
 @Pruyque (Contributor)
+
+
+## 🔄 Version Compatibility
+
+| Client Version(s)       | Server Version(s)   | Protocol Version |
+|------------------------|--------------------|------------------|
+| v0.1.0                 | v0.1.0             | 1                |
+| v0.2.0                 | v0.2.0             | 2                |
+| v0.3.0, v0.3.2, v0.3.3  | v0.3.0             | 3                |
+
+> **Note:**  
+> - Compatibility depends on matching protocol versions.  
+> - Minor patch versions (sub-versions) are backward compatible within the same protocol.  
+> - Always update client and server to the latest compatible protocol version for best stability.
+
